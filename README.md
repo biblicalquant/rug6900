@@ -7,8 +7,10 @@
 
 RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movement in crypto**—built to **expose scammers, track fraudulent wallets, and make rug-pullers infamous forever.**
 
-💀 **If you scam, you get indexed.**  
+💀 **If you scam, you get indexed.**
+
 🔍 **If you try to hide, we track your wallets.**  
+
 📸 **If you delete tweets, we’ve already saved them.**  
 
 💡 **The Index = Our Twitter Following List.** If RUG6900 follows you, you’ve been **flagged as a scammer.** This is the **hall of shame** for rug pullers, serial grifters, and fake influencers.
@@ -22,23 +24,35 @@ RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movem
 ## **🛠 How It Works**
 
 ### **1️⃣ Blockchain & Wallet Tracking**
+
 🚀 **Advanced Solana Surveillance:** RUG6900 continuously scans the Solana blockchain for **new project launches, liquidity movements, and abnormal wallet behaviors.** Our AI-powered algorithms **flag suspect activity** and **track wallets linked to past scams.**  
+
 📊 **On-Chain Behavior Analysis:** Using **historical transaction data**, we identify **patterns of rug pulls, wash trading, and coordinated dumps.**  
+
 ⚡ **Instant Alerts:** As soon as a wallet is flagged, our system updates the **RUG INDEX**, ensuring **real-time fraud detection.**  
 
 ### **2️⃣ The Immutable Rug Index**
+
 🔗 **Permanent Records:** Once a scammer is indexed, they **can’t erase their history**—their fraud is stored **forever** on **IPFS and decentralized databases.**  
+
 ⚖ **Community-Verified Listings:** Our fraud detection system **relies on data, but verification comes from the community.** Reports and AI signals work **hand-in-hand to prevent false positives.**  
+
 👁 **Transparency First:** The **RUG6900 following list = the blacklist.** If we follow you, **you’re indexed for good reason.**  
 
 ### **3️⃣ Automated Twitter Exposure**
+
 🤖 **AI-Powered Callouts:** RUG6900 actively monitors Twitter **for influencers promoting rugs, deleting evidence, or misleading their audience.**  
+
 🚨 **Instant Warnings:** If a notable user engages with a flagged account, they receive **automated alerts exposing the scammer.**  
+
 🔥 **Merciless Trolling:** Indexed scammers don’t just get listed—they get relentlessly exposed, ridiculed, and publicly dismantled. Our AI-powered bot floods their tweets with **receipts, past scams, and financial history**, ensuring they never escape accountability. **There is no rebranding away from the index.**  
 
 ### **4️⃣ AI-Powered Scam Detection**
+
 🛠 **Allora-Enhanced Intelligence:** We use **Allora AI** to **predict** fraudulent behavior before it happens. AI detects patterns in **wallet activity, influencer marketing schemes, and liquidity movements** to issue **early scam warnings.**  
+
 🎯 **Targeted Tracking:** The system **identifies high-risk wallets** and **flags influencers known for promoting failed projects.**  
+
 ⚠️ **Proactive Protection:** Instead of just reacting to scams, **we get ahead of them, warning traders before they get rugged.**  
 
 ---
@@ -48,8 +62,11 @@ RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movem
 💡 **Crowdsourced Intelligence:** Anyone can help fight fraud by submitting scam reports.
 a
 🔹 **Step 1:** Submit **wallet addresses, tweet screenshots, and scam details** via our web form. The submission data is instantly encrypted and sent to our backend for processing.  
+
 🔹 **Step 2:** The RUG6900_INDEX twitter agent automatically inferences with the data and adds to knowlede pool, then uses Deepseek pattern detection as well as autonomous sentiment analysis via Allora to cross-reference **on-chain data, transaction history, and social media behavior** and identify patterns of fraud.  
+
 🔹 **Step 3:** If the AI confirms suspicious activity, the report is flagged for human verification. Once validated, **the scammer is publicly indexed** and earns a follow on X from our agent **permanently tracked.**  
+
 🔹 **Step 4:** The indexed scammer’s fraudulent history is also **stored on IPFS**, ensuring **permanent, tamper-proof transparency.** This data is then broadcast across RUG6900’s social channels to warn the community.*  
 
 
