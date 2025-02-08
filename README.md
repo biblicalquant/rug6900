@@ -23,7 +23,7 @@ RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movem
 
 ## **🛠 How It Works**
 
-### **1️⃣ Blockchain & Wallet Tracking**
+### **1️⃣ Blockchain & Wallet Tracking + Social Media Sleuthing**
 
 🚀 Advanced Fraud Surveillance: RUG6900 continuously monitors both the Solana blockchain and Twitter/X for emerging scams. Our AI-powered system flags suspicious wallets, influencer narratives, and promotional activity linked to past rugs.
 
