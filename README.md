@@ -5,7 +5,7 @@
 
 ## **🚨 What is RUG6900?**
 
-RUG6900 is the **most aggressive, AI-powered anti-rug movement in crypto**—built to **expose scammers, track fraudulent wallets, and make rug-pullers infamous forever.**
+RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movement in crypto**—built to **expose scammers, track fraudulent wallets, and make rug-pullers infamous forever.**
 
 💀 **If you scam, you get indexed.**  
 🔍 **If you try to hide, we track your wallets.**  
