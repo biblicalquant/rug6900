@@ -62,7 +62,7 @@ RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movem
 ## **📢 Civilian Rug Reporting**
 
 💡 **Crowdsourced Intelligence:** Anyone can help fight fraud by submitting scam reports.
-a
+
 🔹 **Step 1:** Submit **wallet addresses, tweet screenshots, and scam details** via our web form. The submission data is instantly encrypted and sent to our backend for processing.  
 
 🔹 **Step 2:** The RUG6900_INDEX twitter agent automatically inferences with the data and adds to knowlede pool, then uses Deepseek pattern detection as well as autonomous sentiment analysis via Allora to cross-reference **on-chain data, transaction history, and social media behavior** and identify patterns of fraud.  
