@@ -79,7 +79,7 @@ RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movem
 RUG6900 is built on **AI16z-backed infrastructure**, integrating cutting-edge machine learning and blockchain analytics to enable **real-time fraud detection, automated scam exposure, and immutable indexing**. Our tech stack ensures that no scammer can escape scrutiny, blending AI-driven intelligence with decentralized, transparent data storage.
 
 ### **🚀 Core Components:**
-- 🧠 **ElizaOS Framework** – Autonomous AI execution for fraud detection.  
+- 🧠 **ElizaOS Framework** – Core framework powering our Autonomous AI.  
 - 🔗 **Solana RPC (QuickNode/Alchemy)** – High-speed blockchain monitoring for wallet and transaction tracking.  
 - 🛑 **@elizaos/plugin-solana** – Advanced on-chain rug pattern detection & tracking.  
 - 🐦 **@elizaos/plugin-twitter** – Seamless Twitter bot integration for instant scam exposure.  
