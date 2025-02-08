@@ -74,7 +74,7 @@ RUG6900 is built on **AI16z-backed infrastructure**, integrating cutting-edge ma
 ## **🔗 Join the Movement**
 
 🚨 **Follow us on Twitter** – [@RUG6900_INDEX](https://twitter.com/RUG6900_INDEX)  
-💰 **Buy $RUG6900** – [DEX Link](#)  
+💰 **Buy $RUG6900** – [[DEX Link](https://dexscreener.com/solana/3prr5puzxqv7hrhnxoztkv3eiteyb6b6p6qetidgbgdn)](#)  
 🔍 **Report a scam** – [coming soon](#)  
 💀 **Check the Rug Index** – [coming soon](#)  
 
