@@ -25,11 +25,13 @@ RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movem
 
 ### **1️⃣ Blockchain & Wallet Tracking**
 
-🚀 **Advanced Solana Surveillance:** RUG6900 continuously scans the Solana blockchain for **new project launches, liquidity movements, and abnormal wallet behaviors.** Our AI-powered algorithms **flag suspect activity** and **track wallets linked to past scams.**  
+🚀 Advanced Fraud Surveillance: RUG6900 continuously monitors both the Solana blockchain and Twitter/X for emerging scams. Our AI-powered system flags suspicious wallets, influencer narratives, and promotional activity linked to past rugs.
 
-📊 **On-Chain Behavior Analysis:** Using **historical transaction data**, we identify **patterns of rug pulls, wash trading, and coordinated dumps.**  
+📊 On-Chain & Social Behavior Analysis: By combining historical blockchain transactions with Twitter discussions, deleted posts, and influencer engagement patterns, we detect rug pull schemes, wash trading, and coordinated pump-and-dumps.
 
-⚡ **Instant Alerts:** As soon as a wallet is flagged, our system updates the **RUG INDEX**, ensuring **real-time fraud detection.**  
+🔎 Real-Time Twitter Intelligence: Our system tracks influencers, project accounts, and engagement metrics to identify red flags before they appear on-chain. If a wallet is involved in a rug-prone project, we cross-check its social history to detect paid promotions, sudden disappearances, and deleted posts.
+
+⚡ Instant Alerts & Indexing: As soon as a wallet or influencer is flagged, RUG6900 updates the Index in real-time—documenting, archiving, and publicly exposing the fraud across both on-chain data and social media receipts.
 
 ### **2️⃣ The Immutable Rug Index**
 
