@@ -3,7 +3,7 @@
 ![1080x360](https://github.com/user-attachments/assets/a899bbc8-1799-406a-a2b8-83b89a1b08c3)
 ---
 
-## **🚨 What is RUG6900?**
+## **🚨 What is $RUG6900?**
 
 RUG6900 is the **most advanced, hybrid AI-powered twitter agent / anti-rug movement in crypto**—built to **expose scammers, track fraudulent wallets, and make rug-pullers infamous forever.**
 
